@@ -7,12 +7,12 @@ lowbody {
 
 header {
     background-color: #004080;
-    color: blue;
+    color: white;
     padding: 20px;
 }
 
 header nav a {
-    color: yellow;
+    color: white;
     margin: 0 10px;
     text-decoration: none;
 }
