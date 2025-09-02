@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #004080;
+    background-color: #800080;
     color: white;
     padding: 20px;
 }
@@ -22,7 +22,7 @@ main {
 }
 
 footer {
-    background-color: #f1f1f1;
+    background-color: #00FF00;
     padding: 15px;
     margin-top: 30px;
 }
@@ -36,7 +36,7 @@ footer {
 }
 
 .filial {
-    background-color: #ffffff;
+    background-color: ##d4cf57;
     border-radius: 12px;
     padding: 20px;
     width: 250px;
