@@ -59,7 +59,7 @@
           bloco.appendChild(descricao);
 
           if (item.Url && item.Url.startsWith('http')) {
-            const youtubeRegex = /(?:https://www.youtube.com/watch?v=vxJa9EzSsYA-]+)/;
+            const youtubeRegex = /(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]+)/;
 
             const match = item.Url.match(youtubeRegex);
             if (match) {
